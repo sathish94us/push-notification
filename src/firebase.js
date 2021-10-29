@@ -1,13 +1,13 @@
 console.log('starting firebase...');
 var firebase = require('firebase/app');
 import 'firebase/messaging';
-let fcmKey = 'BI4mI3QCD_v8r2i7aaPq1Q5JYXWNJ1XdP1jQAD-W9JGPb0l72wbtNlXHi04I7vCsmRcZBEDQHb5iEvcjD_YtAXE';
+let fcmKey = 'XXXXX';
 let firebaseConfig = {
-    apiKey: "AIzaSyDoBOvQnZe4DQKihqHCPd5zqKae2V2yfjI",
-    authDomain: "fir-notification-534b6.firebaseapp.com",
-    projectId: "fir-notification-534b6",
-    storageBucket: "fir-notification-534b6.appspot.com",
-    messagingSenderId: "87342348441"
+    apiKey: "XXXX",
+    authDomain: "XXXX",
+    projectId: "XXXX",
+    storageBucket: "XXXX",
+    messagingSenderId: "XXXX"
 };
 // Initialize Firebase App Instance
 var app = {};

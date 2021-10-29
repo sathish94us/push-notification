@@ -3,11 +3,11 @@ import { register } from 'register-service-worker'
 import * as firebase from "firebase";
 
 var config = {
-  apiKey: "AIzaSyDoBOvQnZe4DQKihqHCPd5zqKae2V2yfjI",
-  authDomain: "fir-notification-534b6.firebaseapp.com",
-  projectId: "fir-notification-534b6",
-  storageBucket: "fir-notification-534b6.appspot.com",
-  messagingSenderId: "87342348441",
+  apiKey: "XXXX",
+  authDomain: "XXXX",
+  projectId: "XXXX",
+  storageBucket: "XXXX",
+  messagingSenderId: "XXXX",
 }; // 4. Get Firebase Configuration
 firebase.initializeApp(config);
 

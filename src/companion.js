@@ -2,14 +2,14 @@
     'use strict';
     // var workerScript = document.currentScript.dataset.serviceWorker;
     // adapted from create-react-app script
-    let senderID = '87342348441';
-    let fcmKey = 'BI4mI3QCD_v8r2i7aaPq1Q5JYXWNJ1XdP1jQAD-W9JGPb0l72wbtNlXHi04I7vCsmRcZBEDQHb5iEvcjD_YtAXE';
+    let senderID = 'XXXX';
+    let fcmKey = 'XXXX';
     let firebaseConfig = {
-        apiKey: "AIzaSyDoBOvQnZe4DQKihqHCPd5zqKae2V2yfjI",
-        authDomain: "fir-notification-534b6.firebaseapp.com",
-        projectId: "fir-notification-534b6",
-        storageBucket: "fir-notification-534b6.appspot.com",
-        messagingSenderId: "87342348441"
+        apiKey: "XXXX",
+        authDomain: "XXXX",
+        projectId: "XXXX",
+        storageBucket: "XXXX",
+        messagingSenderId: "XXXX"
     };
     let registration = null;
     if ('serviceWorker' in navigator) {
