@@ -1,0 +1,6 @@
+{
+    "short_name": "Firestarter",
+    "name": "Vue Firebase Notification",
+    "start_url": "/?utm_source=homescreen",
+    "gcm_sender_id": "87342348441"
+}
